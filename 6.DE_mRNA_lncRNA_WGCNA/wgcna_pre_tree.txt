@@ -1,0 +1,20 @@
+V1	V2	V3	V4	V5
+control3	C2			0
+TB1	C4			0
+control1	C6			0
+control2	C8			0
+brucella2	C10			0
+TB2	C12			0
+brucella3	C14			0
+brucella4	C16			0
+brucella1	C18			0
+TB3	C19			0
+	C17	C18	C19	123
+	C15	C16	C17	127
+	C13	C14	C15	131
+	C11	C12	C13	140
+	C9	C10	C11	188
+	C7	C8	C9	201
+	C5	C6	C7	211
+	C3	C4	C5	413
+	C1	C2	C3	446

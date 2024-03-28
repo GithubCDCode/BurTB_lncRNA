@@ -1,0 +1,34 @@
+V1	V2	V3	V4	V5
+greenyellow	C3			0
+blue	C5			0
+darkgrey	C7			0
+darkturquoise	C9			0
+tan	C10			0
+darkorange	C14			0
+darkgreen	C15			0
+magenta	C17			0
+white	C19			0
+black	C21			0
+grey	C22			0
+midnightblue	C25			0
+cyan	C27			0
+lightcyan	C28			0
+salmon	C30			0
+grey60	C32			0
+brown	C33			0
+	C31	C32	C33	0.0366
+	C29	C30	C31	0.0838
+	C26	C27	C28	0.0389
+	C24	C25	C26	0.074
+	C23	C24	C29	0.102
+	C20	C21	C22	0.0328
+	C18	C19	C20	0.0461
+	C16	C17	C18	0.0581
+	C13	C14	C15	0.052
+	C12	C13	C16	0.0802
+	C11	C12	C23	0.162
+	C8	C9	C10	0.0221
+	C6	C7	C8	0.0356
+	C4	C5	C6	0.0495
+	C2	C3	C4	0.12
+	C1	C2	C11	0.216
